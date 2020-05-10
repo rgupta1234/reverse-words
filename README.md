@@ -9,7 +9,7 @@ curl http://127.0.0.1:8080/ -X POST -d '{"word":"PALC"}'
 
 **Get release**
 
-```sh
+```shdd
 curl http://127.0.0.1:8080/ -X GET
 ```
 
